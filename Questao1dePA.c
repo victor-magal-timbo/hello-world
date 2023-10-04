@@ -23,7 +23,7 @@ int main()
 
 /// O MESMO CODIGO UM POUCO DIFERENTE
 
-int main()
+/*int main()
 {
     int v[]={1,5,3,9,77,45,9,5,3,8,6,4,21,33,51,89};
     int tam = sizeof(v)/sizeof(v[0]);
@@ -51,4 +51,4 @@ int main()
     }
     printf("}\n");
     return 0;
-}
+}*/
