@@ -3,7 +3,7 @@
 int main()
 {
     int coleta[7], consumo[7];
-    int cont, i, saldo;
+    int i, saldo;
     for(i=0;i<7;i++){
         printf("Digite a coleta de agua do dia %d:", i+1);
         scanf("%d", &coleta[i]);
