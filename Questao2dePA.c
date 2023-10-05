@@ -33,7 +33,6 @@ int main()
                 aux=v[id];
                 v[id]=v[id+1];
                 v[id+1]=aux;
-                num++;
             }
         }
     }
