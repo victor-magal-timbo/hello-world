@@ -7,8 +7,6 @@ int main()
     for(i=0;i<7;i++){
         printf("Digite a coleta de agua do dia %d:", i+1);
         scanf("%d", &coleta[i]);
-    }
-    for(i=0;i<7;i++){
         printf("Digite o consumo de agua do dia %d:", i+1);
         scanf("%d", &consumo[i]);
     }
